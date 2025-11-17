@@ -4,78 +4,69 @@ A sleek and responsive Weather Application built using HTML, CSS, and JavaScript
 
 🚀 Features
 
-    🔍 Search weather by city name
-    🌡️ Real-time temperature & feels-like info
-    🌥️ Weather conditions with icons
-    💨 Wind speed & wind direction (N, NE, E, SE, etc.)
-    ☁️ Cloud percentage
-    🌅 Sunrise & 🌇 Sunset (AM/PM format)
-    📅 Local date and time based on city timezone
-    📱 Fully responsive UI
-    🎨 Clean & modern design
+🔍 Search weather by city name
+
+🌡️ Real-time temperature & feels-like info
+
+🌥️ Weather conditions with icons
+
+💨 Wind speed & wind direction (N, NE, E, SE, etc.)
+
+☁️ Cloud percentage
+
+🌅 Sunrise & 🌇 Sunset (AM/PM format)
+
+📅 Local date and time based on city timezone
+
+📱 Fully responsive UI
+
+🎨 Clean & modern design
 
 🛠️ Tech Stack
-Technology  	    Purpose
-HTML5-	            Structure
-CSS3-	            Styling & Layout
-JavaScript (ES6)-	Logic & API handling
-OpenWeatherMap API-	Weather data
-
-
-
+Technology	Purpose
+HTML5	Structure
+CSS3	Styling & Layout
+JavaScript (ES6)	Logic & API handling
+OpenWeatherMap API	Weather data
 📸 Screenshot
-![image alt](🌤️ Weather App
+    ![jimage alt](https://github.com/sainihimanshu01/Nike-clone/blob/189d9bdc7a6e59e00ac95a321f3120fb22257078/Screenshot-Weather.png)
 
-A sleek and responsive Weather Application built using HTML, CSS, and JavaScript that displays real-time weather details like temperature, humidity, wind speed, sunrise/sunset time, and more using the OpenWeatherMap API.
-
-🚀 Features
-
-    🔍 Search weather by city name
-    🌡️ Real-time temperature & feels-like info
-    🌥️ Weather conditions with icons
-    💨 Wind speed & wind direction (N, NE, E, SE, etc.)
-    ☁️ Cloud percentage
-    🌅 Sunrise & 🌇 Sunset (AM/PM format)
-    📅 Local date and time based on city timezone
-    📱 Fully responsive UI
-    🎨 Clean & modern design
-
-🛠️ Tech Stack
-Technology  	    Purpose
-HTML5-	            Structure
-CSS3-	            Styling & Layout
-JavaScript (ES6)-	Logic & API handling
-OpenWeatherMap API-	Weather data
-
-
-
-📸 Screenshot
-![image alt](https://github.com/sainihimanshu01/Nike-clone/blob/189d9bdc7a6e59e00ac95a321f3120fb22257078/Screenshot-Weather.png)
 
 
 🗂️ Project Structure
-
 📁 Weather-App
 │── index.html
 │── style.css
 │── script.js
 └── README.md
 
-
 🔧 Installation & Setup
 
 Clone the repository
-    git clone https://github.com/your-username/weather-app.git
 
- 
+git clone https://github.com/your-username/weather-app.git
+
+
+Navigate to project folder
+
+cd weather-app
+
+
+Open index.html in a browser
+
+start index.html     # Windows  
+open index.html      # Mac  
 
 🔑 API Setup
 
 Go to https://openweathermap.org/api
 
 Create a free account
+
 Get your API key
+
 Replace it inside script.js
+
 const API_KEY = "YOUR_API_KEY_HERE";
 
 📌 Example Output
@@ -87,47 +78,11 @@ const API_KEY = "YOUR_API_KEY_HERE";
 }
 
 🧩 Future Enhancements
-    🔄 Add unit switching (°C ⇆ °F)
-    🗺️ Add search by current GPS location
-    📈 Add 7-day forecast
-    🌗 Add dark/light theme)
 
+🔄 Add unit switching (°C ⇆ °F)
 
-🗂️ Project Structure
+🗺️ Add search by current GPS location
 
-📁 Weather-App
-│── index.html
-│── style.css
-│── script.js
-└── README.md
+📈 Add 7-day forecast
 
-
-🔧 Installation & Setup
-
-Clone the repository
-    git clone https://github.com/your-username/weather-app.git
-
- 
-
-🔑 API Setup
-
-Go to https://openweathermap.org/api
-
-Create a free account
-Get your API key
-Replace it inside script.js
-const API_KEY = "YOUR_API_KEY_HERE";
-
-📌 Example Output
-{
-  "temp": 28.5,
-  "humidity": 70,
-  "wind_speed": 3.5,
-  "description": "clear sky"
-}
-
-🧩 Future Enhancements
-    🔄 Add unit switching (°C ⇆ °F)
-    🗺️ Add search by current GPS location
-    📈 Add 7-day forecast
-    🌗 Add dark/light theme
+🌗 Add dark/light theme
