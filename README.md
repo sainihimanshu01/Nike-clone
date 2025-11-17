@@ -50,7 +50,8 @@ OpenWeatherMap API-	Weather data
 
 
 📸 Screenshot
-<img src="C:\Users\user\Pictures\Screenshots\Screenshot-weather.jpg" alt="Screenshot" width="500" height="333">
+![image alt](https://github.com/sainihimanshu01/Nike-clone/blob/189d9bdc7a6e59e00ac95a321f3120fb22257078/Screenshot-Weather.png)
+
 
 🗂️ Project Structure
 
